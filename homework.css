@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(13, 13, 189);
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    text-shadow:rgb(253, 255, 160)
+  }
+
+.left-column {
+    width: 74vw;
+}
+
+h2 {
+    color: rgb(21, 74, 148);
+    font-size: 24px;
+    text-align: left}
