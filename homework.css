@@ -14,3 +14,9 @@ h2 {
     color: rgb(21, 74, 148);
     font-size: 24px;
     text-align: left}
+
+button {
+    display: flex;
+    justify-content: center;
+    
+}
